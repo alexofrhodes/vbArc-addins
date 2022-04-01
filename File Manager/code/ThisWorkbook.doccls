@@ -1,0 +1,3 @@
+﻿Private Sub Workbook_Open()
+'ThisWorkbook.Windows(1).Visible = False
+End Sub
