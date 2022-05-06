@@ -1,0 +1,14 @@
+https://github.com/alexofrhodes/vbArc-addins/raw/main/Addin Manager/AddinManager.xlam  
+https://github.com/alexofrhodes/vbArc-addins/raw/main/Code Printer/CodePrinter.xlam  
+https://github.com/alexofrhodes/vbArc-addins/raw/main/File Converter/FileConverter.xlam  
+https://github.com/alexofrhodes/vbArc-addins/raw/main/File Manager/FileManager.xlam  
+https://github.com/alexofrhodes/vbArc-addins/raw/main/Finder/Finder.xlam  
+https://github.com/alexofrhodes/vbArc-addins/raw/main/Image Control/ImageControl.xlam  
+https://github.com/alexofrhodes/vbArc-addins/raw/main/Memory Knots/MemoryKnots.xlam  
+https://github.com/alexofrhodes/vbArc-addins/raw/main/Mouse Recorder/MouseRecorder.xlam  
+https://github.com/alexofrhodes/vbArc-addins/raw/main/Project Manager/ProjectManager.xlam  
+https://github.com/alexofrhodes/vbArc-addins/raw/main/Project Starter/ProjectStarter.xlam  
+https://github.com/alexofrhodes/vbArc-addins/raw/main/Range Control/RangeControl.xlam  
+https://github.com/alexofrhodes/vbArc-addins/raw/main/Sessions/Sessions.xlam  
+https://github.com/alexofrhodes/vbArc-addins/raw/main/Userform Navigator/UserformNavigator.xlam  
+https://github.com/alexofrhodes/vbArc-addins/raw/main/Worksheet Navigator/WorksheetNavigator.xlam  
