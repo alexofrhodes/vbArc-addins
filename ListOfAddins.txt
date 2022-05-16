@@ -1,6 +1,4 @@
-https://github.com/alexofrhodes/vbArc-addins/raw/main/Addin Manager/AddinManager.xlam  
-https://github.com/alexofrhodes/vbArc-addins/raw/main/Code Printer/CodePrinter.xlam  
-https://github.com/alexofrhodes/vbArc-addins/raw/main/File Converter/FileConverter.xlam  
+https://github.com/alexofrhodes/vbArc-addins/raw/main/Addin Manager/AddinManager.xlam   
 https://github.com/alexofrhodes/vbArc-addins/raw/main/File Manager/FileManager.xlam  
 https://github.com/alexofrhodes/vbArc-addins/raw/main/Finder/Finder.xlam  
 https://github.com/alexofrhodes/vbArc-addins/raw/main/Image Control/ImageControl.xlam  
