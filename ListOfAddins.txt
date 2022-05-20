@@ -10,4 +10,4 @@ https://github.com/alexofrhodes/vbArc-addins/raw/main/Range Control/RangeControl
 https://github.com/alexofrhodes/vbArc-addins/raw/main/Sessions/Sessions.xlam  
 https://github.com/alexofrhodes/vbArc-addins/raw/main/Userform Navigator/UserformNavigator.xlam  
 https://github.com/alexofrhodes/vbArc-addins/raw/main/Worksheet Navigator/WorksheetNavigator.xlam  
-https://github.com/alexofrhodes/vbArc-addins/raw/main/xml Manager/xmlManager.xlam
+https://github.com/alexofrhodes/vbArc-addins/raw/main/xml Manager/xmlManager.xlam  
