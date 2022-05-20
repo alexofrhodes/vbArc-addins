@@ -43,3 +43,16 @@ File Manager
 (import by browsing or drag/drop, list in worksheet, convert excel or word files, txt merge/remove blank lines/remove comments, pretend contained procedures or export them to separate files, unzip files to own folder)  
 ![File Manager](https://user-images.githubusercontent.com/62287665/169480403-76719235-ca01-4f24-ad22-dd33b8b1feff.jpg)
 
+  
+  
+Temporarily in Project Starter addin  
+  
+xml Manager  
+(read/write)  (backup your project before editing)
+![image](https://user-images.githubusercontent.com/62287665/169486883-50d0bedb-9107-40c2-b74c-1b0769c6ea9b.png)  
+  
+snippets manager  
+![snippets](https://user-images.githubusercontent.com/62287665/169487625-e72bfb67-30bf-4ed0-886f-215599a13d8d.jpg)  
+  
+
+
