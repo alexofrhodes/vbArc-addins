@@ -42,10 +42,6 @@ Finder
 File Manager  
 (import by browsing or drag/drop, list in worksheet, convert excel or word files, txt merge/remove blank lines/remove comments, pretend contained procedures or export them to separate files, unzip files to own folder)  
 ![File Manager](https://user-images.githubusercontent.com/62287665/169480403-76719235-ca01-4f24-ad22-dd33b8b1feff.jpg)
-
-  
-  
-Temporarily in Project Starter addin  
   
 xml Manager  
 (read/write)  (backup your project before editing)
