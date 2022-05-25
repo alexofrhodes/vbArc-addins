@@ -8,5 +8,6 @@ https://github.com/alexofrhodes/vbArc-addins/raw/main/Project Manager/ProjectMan
 https://github.com/alexofrhodes/vbArc-addins/raw/main/Project Starter/ProjectStarter.xlam  
 https://github.com/alexofrhodes/vbArc-addins/raw/main/Range Control/RangeControl.xlam  
 https://github.com/alexofrhodes/vbArc-addins/raw/main/Sessions/Sessions.xlam  
+https://github.com/alexofrhodes/vbArc-addins/blob/main/Snippet Manager/SnippetManager.xlam  
 https://github.com/alexofrhodes/vbArc-addins/raw/main/Userform Navigator/UserformNavigator.xlam  
-https://github.com/alexofrhodes/vbArc-addins/raw/main/Worksheet Navigator/WorksheetNavigator.xlam 
+https://github.com/alexofrhodes/vbArc-addins/raw/main/Worksheet Navigator/WorksheetNavigator.xlam  
