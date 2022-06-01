@@ -7,13 +7,13 @@ ribbon
 ![ribbon](https://user-images.githubusercontent.com/62287665/171392782-f568b830-0396-4de1-9d5a-ad9802323d2c.jpg)  
 
 AddinManager and vbArc addin installer  
-![AddinManager](https://user-images.githubusercontent.com/62287665/169478716-d9233f48-a72b-4b41-a713-d975a5a8610f.jpg)
-![AddinManager2](https://user-images.githubusercontent.com/62287665/169478732-9acab543-f1ef-4726-b0b5-f66772db2a3d.jpg)
+<img src="https://user-images.githubusercontent.com/62287665/169478716-d9233f48-a72b-4b41-a713-d975a5a8610f.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/62287665/169478732-9acab543-f1ef-4726-b0b5-f66772db2a3d.jpg" width="300">
 
 Project manager  
 (export (code, formatted pdf, references, image of sheets and userforms)/import/add/remove components)  
-![PM](https://user-images.githubusercontent.com/62287665/169476907-94177d9d-3097-4a1e-859f-b0118850d964.jpg)
-![PMp](https://user-images.githubusercontent.com/62287665/169476923-151d0f82-df65-47f4-8252-b953e1557ff5.jpg)
+<img src="https://user-images.githubusercontent.com/62287665/169476907-94177d9d-3097-4a1e-859f-b0118850d964.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/62287665/169476923-151d0f82-df65-47f4-8252-b953e1557ff5.jpg" width="600">
 
 Mouse recorder and playback  
 (+ send text, ask input, open file/url)  
