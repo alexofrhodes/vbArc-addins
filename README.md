@@ -4,7 +4,7 @@
  NOTICE: Test features on dummy file before using on something important and always keep backups. 
 
 ribbon  
-![vbArc](https://user-images.githubusercontent.com/62287665/163346390-0805beb5-4458-4116-b5d0-fa30cab2ae83.jpg)
+![ribbon](https://user-images.githubusercontent.com/62287665/171392782-f568b830-0396-4de1-9d5a-ad9802323d2c.jpg)  
 
 AddinManager and vbArc addin installer  
 ![AddinManager](https://user-images.githubusercontent.com/62287665/169478716-d9233f48-a72b-4b41-a713-d975a5a8610f.jpg)
