@@ -1,6 +1,5 @@
 # vbArc addins
- Addins share the vbArc ribbon tab. Pick your poison.
- 
+
  NOTICE: Test features on dummy file before using on something important and always keep backups. 
 
 ribbon  
